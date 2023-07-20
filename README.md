@@ -19,8 +19,7 @@ aprendi.
 
 - ✅Principais tecnologias utilizadas :
   
-<img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-
+<img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 - ☎ Como entrar em contato comigo:
