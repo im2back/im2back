@@ -19,9 +19,9 @@ aprendi.
 - 🔭 Atualmente estou trabalhando em um projeto de APPI Restfull de gerenciamento de consultas médicas. 
 
 - 🌱 Atualmente estou aprendendo :
-<img loading="lazy" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
-<img loading="lazy" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img loading="lazy" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img loading="lazy" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" /> <img loading="lazy" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img loading="lazy" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
+
 
 - 🤔 Estou procurando ajuda com ...
 
