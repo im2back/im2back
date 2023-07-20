@@ -23,7 +23,8 @@ aprendi.
 
 
 
-- 📫 Como entrar em contato comigo: 
+- ☎ Como entrar em contato comigo:
+  
 <a href="https://www.linkedin.com/in/jefferson-richards-sena-de-souza-4110a3222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
--
+
