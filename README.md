@@ -16,10 +16,11 @@ aprendi.
 </div>
 
 
-- 🔭 Atualmente estou trabalhando em um projeto de API Restfull de gerenciamento de consultas médicas.
+🔭 Atualmente estou trabalhando em um projeto de API Restfull de gerenciamento de consultas médicas.
+
   
 
-  ✅Principais tecnologias utilizadas :
+✅Principais tecnologias utilizadas :
   
 <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
