@@ -35,6 +35,7 @@ aprendi.
   
   <a href="https://www.linkedin.com/in/jefferson-richards-sena-de-souza-4110a3222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:jeff.trabalho@outlook.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Outlook-blue.svg?style=flat&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-richards-sena-de-souza-4110a3222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-black.svg?style=flat&logo=whatsapp&logoColor=green" target="_blank"></a>
 
 
 
