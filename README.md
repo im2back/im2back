@@ -16,19 +16,20 @@ aprendi.
 </div>
 
 
-- 🔭 Atualmente estou trabalhando em um projeto de API Restfull de gerenciamento de consultas médicas. 
+- 🔭 Atualmente estou trabalhando em um projeto de API Restfull de gerenciamento de consultas médicas.
+  
 
-- ✅Principais tecnologias utilizadas :
+  ✅Principais tecnologias utilizadas :
   
 <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img loading="lazy" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 
 
 
-- ☎ Como entrar em contato comigo:
+☎ Como entrar em contato comigo:
   
-        <a href="https://www.linkedin.com/in/jefferson-richards-sena-de-souza-4110a3222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="mailto:jeff.trabalho@outlook.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Outlook-blue.svg?style=flat&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-richards-sena-de-souza-4110a3222/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:jeff.trabalho@outlook.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Outlook-blue.svg?style=flat&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 
 
 
