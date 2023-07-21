@@ -16,7 +16,7 @@ aprendi.
 </div>
 
 
-## 🔭 
+## 🖥️⌨️
 ### Atualmente estou trabalhando em um projeto de API Restfull (Back-end) que servirá para gerenciamento de uma clinica médica.
 
   
