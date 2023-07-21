@@ -1,7 +1,7 @@
 
-### Bem vindo ao meu perfil GitHub 👋
+#Bem vindo ao meu perfil GitHub 👋
 
-# Olá, me chamo Jefferson ! 
+### Olá, me chamo Jefferson ! 
 
 Sou estudante do curso de Análise e Desenvolvimento de sistemas e faço cursos paralelos a
 faculdade voltados para desenvolvedor Java com Springboot, no momento estou à procura do primeiro
