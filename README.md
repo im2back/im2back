@@ -17,11 +17,6 @@ aprendi.
 ```
 
 
-<div>
-<a href="https://github.com/im2back">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2back&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=im2back&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 #
 
