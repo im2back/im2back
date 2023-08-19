@@ -21,7 +21,7 @@ aprendi.
 #
 
 ## 🖥️⌨️ Projeto atual :
-### Atualmente estou trabalhando em um projeto de API Rest  que servirá para gerenciamento de uma clinica médica. 👉 https://github.com/im2back/Voll.med
+### Atualmente estou trabalhando em um projeto de API que servirá para montar um pedido contendo varios objetos associados a ele. 👉 [https://github.com/im2back/Voll.med](https://github.com/im2back/Order.API)
 #
 #
  
