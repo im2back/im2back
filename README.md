@@ -12,6 +12,8 @@ aprendi.
 2    "name" : "Jefferson Souza",
 3    "age" : "29",
 4    "profession" : "Progrador JAVA",
+     "academic_education" : "Faculdade Digital Descomplica",
+     "course" : "Graduação em Analise e Desenvolvimento de Sistemas",       
 5    "active" : true
 6  }
 ```
