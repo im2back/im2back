@@ -23,7 +23,7 @@ aprendi.
 #
 
 ## 🖥️⌨️ Projeto atual :
-### Atualmente estou trabalhando em uma API que servirá para montar um pedido e esse pedido terá varios objetos associados a ele . 👉 https://github.com/im2back/Order.API
+###   👉 [https://github.com/im2back/Order.API](https://github.com/im2back/desafio-pessoal-mercearia)
 #
 #
  
