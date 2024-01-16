@@ -23,7 +23,7 @@ aprendi.
 #
 
 ## 🖥️⌨️ Projeto atual :
-###   👉 [https://github.com/im2back/Order.API](https://github.com/im2back/desafio-pessoal-mercearia)
+###   👉https://github.com/im2back/desafio-pessoal-mercearia
 #
 #
  
