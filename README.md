@@ -5,8 +5,8 @@
 
 Curso Análise e Desenvolvimento de Sistemas com foco em Java e Spring Boot, além do curso superior estou sempre aprimorando minhas habilidades por meio de cursos extracurriculares em plataformas digitais e projetos complementares à minha formação acadêmica. Meu portfólio inclui um projeto autoral disponível em meu repositório GitHub, além de diversos outros desenvolvidos durante minha trajetória educacional. Especializei-me em back-end, utilizando Spring Boot e Java, mas também possuo conhecimentos básicos em front-end, com HTML, CSS e JavaScript, além de noções de Docker, inclusive com meu projeto pessoal já disponibilizado via imagem Docker.
 
-Confira meu trabalho:
-Projeto pessoal: https://github.com/im2back/desafio-pessoal-mercearia
+Confira meu último desafio:
+Projeto pessoal: https://github.com/im2back/Uol-Challenger
 ```
 1  {
 2    "name" : "Jefferson Souza",
@@ -22,8 +22,8 @@ Projeto pessoal: https://github.com/im2back/desafio-pessoal-mercearia
 
 #
 
-## 🖥️⌨️ Projeto atual : 
-###   👉 https://github.com/im2back/Project-MicroserviceArchitecture
+## 🖥️⌨️ Projeto atual(Refatoramento) : 
+###   👉 https://github.com/im2back/CreditAppraiser
 #
 #
  
@@ -39,6 +39,7 @@ Projeto pessoal: https://github.com/im2back/desafio-pessoal-mercearia
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/JPA-Hibernate-darkgreen.svg?style=flat&logo=hibernate&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/MySQL-blue.svg?style=flat&logo=mysql&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-blue.svg?style=flat&logo=postgresql&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Docker-white.svg?style=flat&logo=docker&logoColor=blue" target="_blank"></a>
 #
 #
 
