@@ -22,8 +22,8 @@ Projeto pessoal: https://github.com/im2back/Uol-Challenger
 
 #
 
-## 🖥️⌨️ Projeto atual(Refatoramento) : 
-###   👉 https://github.com/im2back/CreditAppraiser
+## 🖥️⌨️ Projeto atual(Refatoramento) : Refatorando e melhorando a arquitetura de um projeto ja finalizado.
+###   👉 https://github.com/im2back/Uol-Challenger 
 #
 #
  
