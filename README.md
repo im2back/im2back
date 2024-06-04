@@ -6,7 +6,7 @@
 Curso Análise e Desenvolvimento de Sistemas com foco em Java e Spring Boot, além do curso superior estou sempre aprimorando minhas habilidades por meio de cursos extracurriculares em plataformas digitais e projetos complementares à minha formação acadêmica. Meu portfólio inclui um projeto autoral disponível em meu repositório GitHub, além de diversos outros desenvolvidos durante minha trajetória educacional. Especializei-me em back-end, utilizando Spring Boot e Java, mas também possuo conhecimentos básicos em front-end, com HTML, CSS e JavaScript, além de noções de Docker, inclusive com meu projeto pessoal já disponibilizado via imagem Docker.
 
 Confira meu último desafio:
-Projeto pessoal: https://github.com/im2back/Uol-Challenger
+Projeto pessoal: https://github.com/im2back/BankChallenger
 ```
 1  {
 2    "name" : "Jefferson Souza",
