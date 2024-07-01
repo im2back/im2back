@@ -22,8 +22,8 @@ Projeto pessoal: https://github.com/im2back/BankChallenger
 
 #
 
-## 🖥️⌨️ Projeto atual(Refatoramento) : Refatorando e melhorando a arquitetura de um projeto ja finalizado.
-###   👉 https://github.com/im2back/Uol-Challenger 
+## 🖥️⌨️ Projeto atual : Refazendo um projeto antigo, agora com mais conhecimento.
+###   👉 https://github.com/im2back/Caderneta-Digital-2.0
 #
 #
  
