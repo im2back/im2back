@@ -3,18 +3,18 @@
 
 ### Olá, me chamo Jefferson ! 
 
-Curso Análise e Desenvolvimento de Sistemas com foco em Java e Spring Boot, além do curso superior estou sempre aprimorando minhas habilidades por meio de cursos extracurriculares em plataformas digitais e projetos complementares à minha formação acadêmica. Meu portfólio inclui um projeto autoral disponível em meu repositório GitHub, além de diversos outros desenvolvidos durante minha trajetória educacional. Especializei-me em back-end, utilizando Spring Boot e Java, mas também possuo conhecimentos básicos em front-end, com HTML, CSS e JavaScript, além de noções de Docker, inclusive com meu projeto pessoal já disponibilizado via imagem Docker.
+Graduado em Desenvolvimento de Sistemas, com enfoque em Java e Spring Boot. Além do curso superior, estou em constante aprimoramento das minhas habilidades através de cursos extracurriculares em plataformas digitais e projetos que complementam minha formação acadêmica. Meu portfólio conta com um projeto autoral disponível em meu repositório no GitHub, bem como diversos outros projetos elaborados ao longo de minha jornada educacional. Especializei-me em desenvolvimento back-end, utilizando principalmente Spring Boot e Java. Ademais, possuo conhecimentos em Docker e tenho familiaridade com ferramentas de automação de integração e entrega contínua (CI/CD), como Jenkins. Utilizo também o SonarQube para a verificação da qualidade do código. Contudo, também detenho conhecimentos básicos de front-end, incluindo HTML, CSS e JavaScript e Angular.
 
 Confira meu último desafio:
-Projeto pessoal: https://github.com/im2back/BankChallenger
+Projeto pessoal: https://github.com/im2back/Caderneta-Digital-2.0
 ```
 1  {
 2    "name" : "Jefferson Souza",
-3    "age" : "29",
+3    "age" : "31",
 4    "profession" : "Progrador JAVA",
      "academic_education" : "Faculdade Digital Descomplica",
      "course" : "Graduação em Analise e Desenvolvimento de Sistemas",       
-5    "active" : true
+5    "state" : complete
 6  }
 ```
 
@@ -22,7 +22,7 @@ Projeto pessoal: https://github.com/im2back/BankChallenger
 
 #
 
-## 🖥️⌨️ Projeto atual : Refazendo um projeto antigo, agora com mais conhecimento.
+## 🖥️⌨️ Projeto atual : Refatorando um projeto antigo, agora com mais conhecimento.
 ###   👉 https://github.com/im2back/Caderneta-Digital-2.0
 #
 #
